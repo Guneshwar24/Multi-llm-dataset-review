@@ -78,12 +78,17 @@ Both scripts allow users to upload CSV files, select an LLM provider, and intera
 - Processes queries using a custom `process_query` function
 - Provides natural language responses based on the data
 - Limited ability to perform direct calculations or data manipulations
+<img width="1440" alt="Skjermbilde 2024-08-12 kl  03 32 33" src="https://github.com/user-attachments/assets/4202b69e-28a8-4648-8077-75f429222a6e">
+<img width="1440" alt="Skjermbilde 2024-08-12 kl  03 32 37" src="https://github.com/user-attachments/assets/bb3482df-4be2-4c52-9ac4-6452a2562f90">
+
 
 ### PandasAI Approach (`pandasai_analysis.py`)
 - Uses PandasAI's SmartDataframe for enhanced data analysis
 - Capable of performing direct calculations and data manipulations
 - Generates and executes Python code to answer queries
 - Provides more accurate and specific answers for data-related questions
+<img width="1440" alt="Skjermbilde 2024-08-12 kl  03 32 41" src="https://github.com/user-attachments/assets/5b58254c-1d33-478f-8ea6-aca321eb6fa4">
+
 
 ## Why PandasAI?
 
